@@ -97,8 +97,8 @@ service-worker: true
 # Friends
 friends: [
    {
-        title: "公众号|jackyu分享者",
-        href: "https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU3NTI4NzEwNw==&scene=124#wechat_redirect"
+        title: "公众号 jackyu分享者",
+        href: "https://mp.weixin.qq.com/profile?src=3&timestamp=1520650530&ver=1&signature=oLuLAKyUga0Y6JjUXpM0eG98YS6w-D4ETQgRWeINhURxE-YAS95SxgffgVRRjSmusUxBkbnC88VQAP9a0SPNcA=="
     },{
         title: "Apple",
         href: "https://apple.com"
