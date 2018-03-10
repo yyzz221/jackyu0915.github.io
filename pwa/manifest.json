@@ -1,14 +1,14 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "JackYu",
+  "short_name": "JackYu Blog",
+  "description": "About an new hand of computer.",
   "icons": [{
-    "src": "icons/128.png",
-    "sizes": "128x128",
+    "src": "icons/240.png",
+    "sizes": "240x240",
     "type": "image/png"
   }, {
-    "src": "icons/512.png",
-    "sizes": "512x512",
+    "src": "icons/480.png",
+    "sizes": "480x480",
     "type": "image/png"
   }],
   "background_color": "#fff",
