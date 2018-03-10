@@ -6,7 +6,7 @@ email: jackyu0915@gmail.com
 description: "Every failure is leading towards success."
 keyword: "JackYu Blog, jack的博客"
 url: "http://jackyu0915.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/jackyu0915.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # Sidebar settings
@@ -60,8 +60,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 55de79d42980a4bcb3bd                            #生成的clientID
-  clientSecret: 6bb02acaf003e1bece1c0e978f2a30d6bd229489    #生成的clientSecret
+  clientID: 7282d138f153b32a76e0                            #生成的clientID
+  clientSecret: 298af827407cb0291ce089c9c8a106dea3f38193    #生成的clientSecret
   repo: jackyu0915.github.io    #仓库名称
   owner: jackyu0915    #github用户名
   admin: jackyu0915
