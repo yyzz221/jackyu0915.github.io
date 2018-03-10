@@ -2,7 +2,7 @@
 title: JackYu Blog
 SEOTitle: JackYu的博客 | JackYu Blog
 header-img: img/background.png
-email: qiubaiying@gmail.com
+email: jackyu0915@gmail.com
 description: "Every failure is leading towards success."
 keyword: "JackYu Blog, jack的博客"
 url: "http://jackyu0915.github.io"          # your host, for absolute URL
@@ -97,8 +97,8 @@ service-worker: true
 # Friends
 friends: [
    {
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "公众号|jackyu分享者",
+        href: "https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU3NTI4NzEwNw==&scene=124#wechat_redirect"
     },{
         title: "Apple",
         href: "https://apple.com"
