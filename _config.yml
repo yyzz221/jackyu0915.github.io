@@ -3,7 +3,7 @@ title: JackYu Blog
 SEOTitle: JackYu的博客 | JackYu Blog
 header-img: img/background.png
 email: jackyu0915@gmail.com
-description: "Every failure is leading towards success."
+description: "If you want,ni will!"
 keyword: "JackYu Blog, jack的博客"
 url: "http://jackyu0915.github.io"          # your host, for absolute URL
 baseurl: "/jackyu0915.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -18,7 +18,7 @@ sidebar-avatar: /img/headportrait.jpg      # use absolute URL, seeing it's used 
 
 # SNS settings
 RSS: false
-weibo_username:     jackyu_0915
+weibo_username:     6270110276
 zhihu_username:     wu-xian-10-72
 github_username:    jackyu0915
 twitter_username:   JackYu0915
@@ -98,9 +98,9 @@ service-worker: true
 friends: [
    {
         title: "公众号 jackyu分享者",
-        href: "https://mp.weixin.qq.com/profile?src=3&timestamp=1520650530&ver=1&signature=oLuLAKyUga0Y6JjUXpM0eG98YS6w-D4ETQgRWeINhURxE-YAS95SxgffgVRRjSmusUxBkbnC88VQAP9a0SPNcA=="
+        href: "http://mp.weixin.qq.com/s/RKBKR_kgGFEh8BzEe_Ab6A"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "简书",
+        href: "https://www.jianshu.com/users/b0218515c59c/timeline"
     }
 ]
