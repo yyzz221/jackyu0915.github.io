@@ -6,7 +6,7 @@ email: jackyu0915@gmail.com
 description: "If you want,ni will!"
 keyword: "JackYu Blog, jack的博客"
 url: "http://jackyu0915.github.io"          # your host, for absolute URL
-baseurl: "/jackyu0915.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # Sidebar settings
