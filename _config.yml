@@ -1,11 +1,11 @@
 # Site settings
-title: JackYu Blog
-SEOTitle: JackYu的博客 | JackYu Blog
+title: YYZZ Blog
+SEOTitle: YYZZ的博客 | ZY Blog
 header-img: img/background.png
 email: jackyu0915@gmail.com
 description: "If you want,ni will!"
-keyword: "JackYu Blog, jack的博客"
-url: "http://jackyu0915.github.io"          # your host, for absolute URL
+keyword: "YYZZ Blog, ZY的博客"
+url: "http://yyzz221.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -18,10 +18,10 @@ sidebar-avatar: /img/headportrait.jpg      # use absolute URL, seeing it's used 
 
 # SNS settings
 RSS: false
-weibo_username:     6270110276
-zhihu_username:     wu-xian-10-72
-github_username:    jackyu0915
-twitter_username:   JackYu0915
+#weibo_username:     6270110276
+#zhihu_username:     wu-xian-10-72
+github_username:    yyzz221
+#twitter_username:   JackYu0915
 
 
 
